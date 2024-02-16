@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307772558465",
+    "project_id": "login-register-android-364c4",
+    "storage_bucket": "login-register-android-364c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307772558465:android:f93c672a99060abd5a5180",
+        "android_client_info": {
+          "package_name": "com.danielanastacio.login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzkPF8IKvQ3vs3PKqjKb4BHfVpUFMfF_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
