@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">login-register</string>
+    <string name="textLogin">LOGIN</string>
+    <string name="editEmail">EMAIL</string>
+    <string name="editPassword">PASSWORD</string>
+    <string name="buttonSignIn">Sign in</string>
+    <string name="register">REGISTER</string>
+    <string name="editRegister">REGISTER</string>
+    <string name="buttonSignUp">Sign Up</string>
+    <string name="textLoginNow">Login Now</string>
+    <string name="textRegisteNow">No signed? Register now</string>
+    <string name="textLogout">Logout</string>
+</resources>
